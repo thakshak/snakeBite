@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1516364534 source:c:\users\gthak\onedrive\documents\work\snakebite\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<ctime>
+	"Grid.h"
+	"Snake.h"
+	"Food.h"
+
+1516364675 source:c:\users\gthak\onedrive\documents\work\snakebite\food.cpp
+	"Food.h"
+	<cstdlib>
+
+1516364638 c:\users\gthak\onedrive\documents\work\snakebite\food.h
+
+1516364420 source:c:\users\gthak\onedrive\documents\work\snakebite\grid.cpp
+	"Grid.h"
+
+1516364454 c:\users\gthak\onedrive\documents\work\snakebite\grid.h
+	"Food.h"
+	<vector>
+	<iostream>
+	"Snake.h"
+
+1516364552 c:\users\gthak\onedrive\documents\work\snakebite\snake.h
+	"Food.h"
+
+1516364719 source:c:\users\gthak\onedrive\documents\work\snakebite\snake.cpp
+	"Snake.h"
+	<cstdlib>
+
